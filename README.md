@@ -13,7 +13,8 @@ I'm a Technical Lead, Scrum Master, and Azure Data Engineer with 8+ years of exp
 
   - ✅ **Certified Scrum Master (CSM)** – *Scrum Alliance, Apr 2024*  
     [View Credential »](https://bcert.me/bc/html/show-badge.html?b=jsihwigz)
-  
+    Credential ID: 001638627
+    
   - ✅ **SAFe Agilist** – *Scaled Agile, Apr 2025*  
     Credential ID: 62961829-7147
   
