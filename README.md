@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I’m Shri Shankari
 
-<!--
-**shrishankari/shrishankari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Technical Lead, Scrum Master, and Azure Data Engineer with 8+ years of experience delivering cloud-based data solutions and driving Agile transformation across enterprise projects.
 
-Here are some ideas to get you started:
+🔹 Strong experience with:
+- Azure Data Factory, Synapse, Databricks, Power BI
+- Agile delivery (Scrum/SAFe), stakeholder management, SLA/RLA metrics
+- Salesforce & EDI integration, CI/CD pipelines, and support project leadership
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 [Download my resume](https://github.com/shrishankari/resume/blob/main/Shri_Shankari_Resume_June2025.pdf)
+
+🏆 ## 🧾 Certifications
+
+  - ✅ **Certified Scrum Master (CSM)** – *Scrum Alliance, Apr 2024*  
+    [View Credential »](https://bcert.me/bc/html/show-badge.html?b=jsihwigz)
+  
+  - ✅ **SAFe Agilist** – *Scaled Agile, Apr 2025*  
+    Credential ID: 62961829-7147
+  
+  - 🎯 **Microsoft Certified: Azure Fundamentals (AZ-900)** – *Scheduled July 2025*
+  
+  - 🎯 **Microsoft Certified: Azure Data Fundamentals (DP-900)** – *In Progress, Expected July 2025*
+
+🔗 [LinkedIn](https://www.linkedin.com/in/shankari95)
+
+---
+
+🌟 This GitHub showcases mini-projects and artifacts related to my work — stay tuned!
