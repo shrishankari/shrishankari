@@ -12,6 +12,7 @@ I'm a Technical Lead, Scrum Master, and Azure Data Engineer with 8+ years of exp
 🏆 ## 🧾 Certifications
 
   - ✅ **Certified Scrum Master (CSM)** – *Scrum Alliance, Apr 2024* | Credential ID: 001638627
+
     <img src="https://github.com/shrishankari/certifications/blob/main/csm%20badge.png" alt="CSM Badge" width="150"/>
 
     [View Credential »](https://bcert.me/bc/html/show-badge.html?b=jsihwigz)
@@ -19,6 +20,7 @@ I'm a Technical Lead, Scrum Master, and Azure Data Engineer with 8+ years of exp
     📄 [View Full Certificate (PDF)](https://github.com/shrishankari/certifications/blob/main/Shri%20Shankari-ScrumAlliance_CSM_Certificate.pdf)
     
   - ✅ **SAFe Agilist** – *Scaled Agile, Apr 2025* | Credential ID: 62961829-7147
+
     <img src="https://github.com/shrishankari/certifications/blob/main/certified-safe-6-agilist.png" alt="SAFe Badge" width="150"/>
 
     📄 [View Full Certificate (PDF)](https://github.com/shrishankari/certifications/blob/main/SAFE6_certificate.pdf)
