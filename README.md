@@ -37,7 +37,14 @@ I’m a Technical Lead, Scrum Master, and Azure Data Engineer with 8+ years of e
 
 ## 📂 Featured Projects
 
-*Add links here as you build them.*
+- 🛠 [Azure Data Pipeline Demo](https://github.com/shrishankari/azure-data-pipeline-demo)  
+  *ADF pipeline ingesting Salesforce and EDI data into ADLS with Databricks and Synapse*
+
+- 🔬 [Databricks PySpark Notebook](https://github.com/shrishankari/databricks-pyspark-notebook)  
+  *Notebook with PySpark-based filtering, aggregation, and Delta Lake writebacks*
+
+- 🔁 [Agile & Scrum Practices](https://github.com/shrishankari/agile-scrum-practices)  
+  *Templates and notes on sprint ceremonies, PI planning, and operational reviews*
 
 ---
 
